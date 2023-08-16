@@ -1,0 +1,11 @@
+.option-pendiente {
+    background-color: yellow;
+}
+
+.option-progreso {
+    background-color: orange;
+}
+
+.option-completada {
+    background-color: green;
+}
